@@ -1,0 +1,47 @@
+body{
+        background: url(sky.jpeg);
+}
+div{
+    color: rgb(252, 254, 255);
+}
+.regform{
+    width: 500px;
+    height: 550px;
+    margin: 10px auto;
+    background-color:rgb(173, 224, 216);
+    padding: 25px 15px 20px;
+    color: rgb(54, 13, 144);
+    font-size: 20px;
+    border-radius: 30px;
+}
+.regform h3{
+    text-align: center;
+     color:rgb(43, 0, 255);
+}
+.regform .textlabel{
+    display: block;
+}
+.input input{
+    width: 100%;
+    font-size: 1.5em;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin: 5px 0px 15px;
+}
+.input focus{
+    background-color: rgb(255, 127, 240);
+}.btn{
+    text-align: center;
+}
+button{
+    background-color: aqua;
+    font-size: 20px;
+}
+.radio input{
+    accent-color: rgb(0, 149, 255);
+}
+div.input ::placeholder{ font-size: small;
+}
+
+
+   
